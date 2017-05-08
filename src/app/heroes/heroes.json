@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "name": "Smith",
+        "address": {
+            "state": "kar",
+            "country": "india"
+        }
+    },
+    {
+        "id": "2",
+        "name": "John",
+        "address": {
+            "state": "kar",
+            "country": "india"
+        }
+    },
+    {
+        "id": "3",
+        "name": "Jim",
+        "address": {
+            "state": "mum",
+            "country": "MH"
+        }
+    },
+    {
+        "id": "4",
+        "name": "Tom",
+        "address": {
+            "state": "ca",
+            "country": "USA"
+        }
+    }
+]
