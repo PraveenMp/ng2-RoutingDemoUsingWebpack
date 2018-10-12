@@ -21,6 +21,7 @@ import { Observable } from 'rxjs/Observable';
 export class HeroListComponent implements OnInit {
     heroes:Hero[];
     selectedID:number;
+    username: string;
 
     constructor(
         private service: HeroService,
