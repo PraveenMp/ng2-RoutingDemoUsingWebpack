@@ -22,6 +22,7 @@ export class HeroListComponent implements OnInit {
     heroes:Hero[];
     selectedID:number;
     username: string;
+    password: string;
 
     constructor(
         private service: HeroService,
